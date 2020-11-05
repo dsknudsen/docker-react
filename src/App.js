@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          A change for Git on feature branch
+          Let's do it
         </a>
       </header>
     </div>
